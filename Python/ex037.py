@@ -1,0 +1,1 @@
+#Ver video sobre binario hexadecimal e octal

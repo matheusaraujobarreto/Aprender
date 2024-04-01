@@ -1,0 +1,1 @@
+#É igual o 31 mas com porcentagem

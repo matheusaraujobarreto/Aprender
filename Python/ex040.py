@@ -1,0 +1,1 @@
+#média de um aluno dizendo se ele foi reprovado,recuperação ou aprovado

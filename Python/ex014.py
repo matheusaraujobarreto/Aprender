@@ -1,0 +1,1 @@
+# Apenas um conversor de temperatura de C° para F°

@@ -1,0 +1,13 @@
+n = int(input("Digite um numero"))
+r = int(input("Digite a razão da PA"))
+t = n
+c = 1
+total = 0
+m = 10
+while m != 0:
+    total = total + m
+    while c <= total:
+        print("{} >".format(t), end=" ")
+        c += 1
+        t += r
+    m = int(input("\nQuer mais termos? Se sim quantos? Se não digite 0"))
